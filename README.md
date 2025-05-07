@@ -16,10 +16,10 @@ license: apache-2.0
 [MobileSAM](https://github.com/ChaoningZhang/MobileSAM).
 のsetup.pyからインストールする。
 
-├── app
-│   ├── MobileSAM.ipynb
-│   └── utils
-└── weight 
+├── app  
+│   ├── MobileSAM.ipynb  
+│   └── utils  
+└── weight   
 
 
 ```
